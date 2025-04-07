@@ -8,6 +8,7 @@ export const routes: Routes = [
     {path: 'menu', component:MenuComponent},
     {path: 'login', component: LoginComponent},
     {path: 'perfil/:email', component: PerfilComponent},
+    {path: 'perfil', component: PerfilComponent},
     
 
 ];
